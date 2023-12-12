@@ -3,7 +3,15 @@
 ### Project Overview
 This script scrapes Reddit and posts on Twitter.
 
-### APIs Needed
-Twitter API [Here](https://developer.twitter.com/en)
+### APIs Keys Needed
+#### [Twitter](https://developer.twitter.com/en) 
+- api_key
+- api_secret
+- access_token
+- access_token_secret
+- bearer_token
 
-Reddit API [Here](https://www.reddit.com/prefs/apps)
+#### [Reddit](https://www.reddit.com/prefs/apps)
+- client_id
+- client_secret
+- user_agent
