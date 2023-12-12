@@ -1,2 +1,8 @@
 # reddit_twitter_bot
-Coding a bot that scrapes Reddit and posts on Twitter
+
+### Project Overview
+This script scrapes Reddit and posts on Twitter.
+
+### APIs Needed
+Twitter API [Here](https://developer.twitter.com/en)
+Reddit API [Here](https://www.reddit.com/prefs/apps)
